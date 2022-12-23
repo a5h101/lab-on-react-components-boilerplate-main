@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
       <GallaryHeader/>
-      <GallaryBody/
+      <GallaryBody/>
       <GallaryFooter/> 
     </div>
   )
