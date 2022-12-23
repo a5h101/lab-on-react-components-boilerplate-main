@@ -7,8 +7,7 @@ function App() {
   return (
     <div>
       <GallaryHeader/>
-      <GallaryBody/>
-      {/* adding footer component */}
+      <GallaryBody/
       <GallaryFooter/> 
     </div>
   )
